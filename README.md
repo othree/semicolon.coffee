@@ -1,7 +1,7 @@
 # Semicolon.coffee — Reliable Semicolon.js in CoffeeScript
 
 <a href="https://github.com/madrobby/semicolon.js">Semicolon.js</a> is a much more secure, stable and reliable alternative to 
-<a href="http://vaporjs.com/">Vapor.js</a>. And Semicolon.coffe is a totally
+<a href="https://github.com/madrobby/vapor.js">Vapor.js</a>. And Semicolon.coffe is a totally
 rewriten in CoffeeScript
 
 ## Usage: 
